@@ -1,0 +1,25 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: content-box;
+    /* background-color: white; */
+    /* color: whitesmoke; */
+}
+
+.navbar {
+    background-color: #343A40;
+    padding-top: 2rem;
+    padding-right: 2rem;
+    padding-left: 2rem;
+    padding-bottom: 2rem;
+    text-align: center;
+}
+
+.head {
+    font-size: 2.5rem;
+    color: whitesmoke;
+    text-align: center;
+    font-weight: 700;
+    background-color: #343A40;
+    
+}

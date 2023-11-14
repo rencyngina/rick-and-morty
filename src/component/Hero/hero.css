@@ -1,0 +1,50 @@
+.cher-list {
+    display: flex;
+    flex-wrap: wrap;
+    text-decoration: none;
+    gap: 20px;
+}
+
+.li {
+    text-decoration: none;
+}
+
+.card {
+    size-adjust: 100x;
+}
+
+.cher-cont {
+    justify-content: center;
+    align-items: center;
+    /* padding: 30px; */
+    margin-top: 20px;
+    padding-right: 5px;
+    padding-left: 50px;
+
+}
+
+.card-image{
+    border-radius: 10px;
+    
+}
+
+
+.card-image:hover {
+    
+    /* transform: scale(1.1); */
+    
+}
+.card-holder{
+    background-color: whitesmoke;
+    border-radius: 10px;
+    text-align: center;
+    font-size: 18px;
+    text-decoration: none;
+    color: black;
+    list-style-type: none;
+    transition: transform 0.3s ease;
+}
+
+.card-holder:hover {
+    transform: scale(1.1);
+}
